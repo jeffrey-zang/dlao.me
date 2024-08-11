@@ -44,7 +44,7 @@ import donald42 from './donalds/donald42.png'
 import donald43 from './donalds/donald43.png'
 import donald44 from './donalds/donald44.png'
 import donald45 from './donalds/donald45.png'
-// import donald46 from './donalds/donald46.png'
+import donald46 from './donalds/donald46.png'
 // import donald47 from './donalds/donald47.png'
 // import donald48 from './donalds/donald48.png'
 
@@ -95,7 +95,7 @@ let donalds = [
   donald43,
   donald44,
   donald45,
-  // donald46,
+  donald46,
   // donald47,
   // donald48
 ]
